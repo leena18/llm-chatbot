@@ -10,7 +10,7 @@ load_dotenv()
 
 # Configure Streamlit page settings
 st.set_page_config(
-    page_title="Chat with AI",
+    page_title="Hey Chat with AI",
     page_icon=":pizza:",  # Favicon emoji
     layout="wide",  # Page layout option
 )
